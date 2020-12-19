@@ -1,1 +1,1 @@
-This a test file for Git course, Exercize #!
+This a test file for Git course, Exercise #1
