@@ -1,0 +1,2 @@
+This a test file2 for Git course, Exercise #1.
+This is a new file for exercise 1
