@@ -1,2 +1,3 @@
 This a test file for Git course, Exercise #1.
 About to add a second file to repository Demo1
+In ex3, updated this file!  Exercise #5
